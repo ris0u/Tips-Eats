@@ -5,7 +5,7 @@ Tips-Eats focuses on creating a clean, intuitive interface for discovering, shar
 
 ---
 ## 📸 Screenshots
-![Tips-Eats UI Preview](./MainPage.png)
+![Tips-Eats UI Preview](./Homepage.png)
 ![Tips-Eats UI Preview](./MarketplaceSection.png)
 ![Tips-Eats UI Preview](./FriendsSection.png)
 ![Tips-Eats UI Preview](./FollowingSection.png)
