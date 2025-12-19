@@ -21,10 +21,10 @@ Tips-Eats focuses on creating a clean, intuitive interface for discovering, shar
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** Vue.js 3, HTML5, CSS3
-- **Bundler:** Vite (default) / Webpack (optional)
+- **Frontend:** HTML5, CSS3, Javascript, PHP
+- **Backend:** MySQL
 - **Version Control:** Git + GitHub
-- **Deployment:** Static hosting (Netlify, Vercel, or GitHub Pages)
+- **Deployment:** Static hosting (Ngrok)
 
 ---
 
